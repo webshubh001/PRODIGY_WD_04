@@ -538,12 +538,12 @@ button:hover {
   .div-content {
     padding-left: 1rem;
     margin-left: 1rem;
-    width: 17rem;
+    width: 20rem;
     height: 30rem;
   }
 
   .about-content {
-    width: 225px;
+    width: 276px;
     margin-top: 10px;
     font-size: 15px;
   }
