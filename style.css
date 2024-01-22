@@ -541,7 +541,9 @@ button:hover {
     width: 20rem;
     height: 45rem;
   }
-
+#abt{
+  top:2rem;
+}
   .about-content {
     width: 276px;
     margin-top: 10px;
